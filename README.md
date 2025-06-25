@@ -1,3 +1,5 @@
+(Opis commitow nie jest wymagany, poniewąz jedyny commit "NowayProjekt" został wykonany po prostu by dodać wszystkie pliki do repozytroium GitHub)
+
 Multiplayer Battleship Game
 Projekt gry w statki z graficznym interfejsem użytkownika (GUI), obsługą dwóch graczy przez sieć lokalną oraz możliwością rozbudowy. Gra została stworzona w Pythonie z wykorzystaniem bibliotek Pygame oraz socket.
 
